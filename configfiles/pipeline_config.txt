@@ -1,0 +1,6 @@
+EXECUTOR=com.vnkolesnik.executorreader.ExecutorReader
+CONFIGFILE=configfiles\reader_config.txt
+EXECUTOR=com.vnkolesnik.executoraddone.ExecutorAddOne
+CONFIGFILE=no
+EXECUTOR=com.vnkolesnik.executorwriter.ExecutorWriter
+CONFIGFILE=configfiles\writer_config.txt
